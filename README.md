@@ -6,7 +6,7 @@ Build Restful CRUD API for a personal learning using Spring Boot, Mysql, JPA and
 Steps to Setup
 1. Clone the application
 
-git clone 
+git clone https://github.com/OmarExpo/springboot-crud-example.git
 2. Create Mysql database
 
 create database 
